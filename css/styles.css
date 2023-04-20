@@ -1,0 +1,159 @@
+.nav-item {
+    margin: 20px;
+}
+
+#title {
+    background-color: #C0DEFF;
+}
+
+.navbar-brand {
+    margin: 0 0 0 29px;
+}
+
+.personal-description {
+    border: 2px solid #fff;
+    border-radius: 10px;
+    background-color: #fff;
+    padding: 20px;
+    position: relative;
+    margin: 37px auto 0;
+    width: 737px;
+}
+
+.profile-pic {
+    height: 500px;
+}
+
+.links a {
+    color: black;
+    text-decoration: none;
+    padding: 0 0 8px 0;
+}
+
+.logo_links {
+    margin: 24px 0 28px 0;
+}
+
+.logo_links a {
+    padding: 0 0 0 12px;
+    color: black;
+    text-decoration: none;
+}
+
+#about-skills {
+    background-color: #FAF8F1;
+}
+
+.about {
+    margin: 20px 0 0 62px;
+    padding: 30px;
+}
+
+.skills h1 {
+    padding: 0 0 0 22px;
+}
+
+#education {
+    background-color: #C0DEFF;
+    border: auto;
+    margin: 0 0 0 0;
+    padding: 30px 0 19px 0;
+}
+
+#education h3 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 29px;
+}
+
+#education p {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 18px;
+}
+
+#education ul {
+    margin: 22px 0 0 67px;
+}
+
+#heading {
+    margin: 61px 0 37px 0;
+    text-align: center;
+}
+
+.contact_form {
+    margin: auto;
+}
+
+.contact_img {
+    margin: 0 0 0 120px;
+}
+
+.contact_form form div {
+    margin: 0 0 0 80px;
+    padding: 10px 10px;
+    display: flex;
+    flex-direction: column;
+    width: 378px;
+    border: auto;
+    border-radius: 10px;
+}
+
+#heading h1 {
+    font-family: 'Bebas Neue', cursive;
+    color: #0A4D68;
+    font-size: 100px;
+}
+
+#submit_button {
+    background-color: blue;
+    color: #fff;
+    border-radius: 9px;
+    width: 167px;
+    margin: 0 0 0 82px;
+}
+
+#footer {
+    background-color: black;
+    padding: 20px 0 1px 0;
+    color: #FAF8F1;
+    text-align: center;
+}
+
+.Project_header {
+    margin: 53px 0 0 0;
+    padding: 0 0 58px 0;
+}
+
+.Project_header h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 78px;
+}
+
+#footer a {
+    padding: 0 11px 0 16px;
+    color: #FAF8F1;
+    text-decoration: none;
+
+}
+
+.NFT_project {
+    margin: 60px 0 0 0;
+}
+
+.NFT_project img {
+    margin: 0 0 0 0;
+    height: 391px;
+    width: 245px;
+    border: 2px;
+    border-radius: 10px;
+}
+
+.NFT_project a {
+    text-decoration: none;
+}
+
+.system_project img {
+    height: 391px;
+    width: 245px;
+    border: 2px;
+    border-radius: 10px;
+}
